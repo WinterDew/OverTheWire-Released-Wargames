@@ -5,6 +5,9 @@ They were hosted on their server images.overthewire.org, which is now unaccessib
 
 This Repository contains the disc images originally provided on the site, which have been recovered using the [Wayback Machine]("http://wayback.archive.org/")
 
+Look for the disc images in the [releases section](https://github.com/WinterDew/OverTheWire-Released-Wargames/releases/tag/15-05-2024), 
+Instructions and information in respective folders.
+
 # LICENSE INFORMATION.
 
 THE CONTENTS OF THIS REPOSITORY DO NOT BELONG TO ME, BUT THOSE OF ITS CREATORS AND PROVIDERS : overthewire.org and http://hackitoergosum.org/
